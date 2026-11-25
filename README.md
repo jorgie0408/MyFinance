@@ -1,0 +1,8 @@
+1. Dashboard - Menampilkan ringkasan keuangan (masih mau di ubah ui nya)
+2. Kategori - Membuat Master kategori (TODAY)
+3. Income - Mencatat, Mengubah, dan Menghapus Pemasukan (TODAY)
+4. Expense - Mencatat, Mengubah, dan Menghapus Pengeluaran (TODAY)
+5. Transaksi - Menampilkan Daftar Transaksi dan Trigger untuk ubah dan hapus. Serta melakukan pencarian dan filter serta sorting (TODAY)
+6. Saldo - Menampilkan saldo saat ini (TODAY)
+7. Laporan - Menghitung pemasukan dan pengeluaran dalam bulan tertentu (TODAY)
+8. Menyimpan data ke dalam Shared Preferences (TODAY)
